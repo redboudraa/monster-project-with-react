@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/redboudraa/monster-project-with-react/static/css/main.87b41b3a.chunk.css",
-    "main.js": "/redboudraa/monster-project-with-react/static/js/main.6688d933.chunk.js",
-    "main.js.map": "/redboudraa/monster-project-with-react/static/js/main.6688d933.chunk.js.map",
-    "runtime~main.js": "/redboudraa/monster-project-with-react/static/js/runtime~main.98640143.js",
-    "runtime~main.js.map": "/redboudraa/monster-project-with-react/static/js/runtime~main.98640143.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/redboudraa/monster-project-with-react/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/redboudraa/monster-project-with-react/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/redboudraa/monster-project-with-react/index.html",
-    "precache-manifest.472049c59267f9234ba38030accea531.js": "/redboudraa/monster-project-with-react/precache-manifest.472049c59267f9234ba38030accea531.js",
-    "service-worker.js": "/redboudraa/monster-project-with-react/service-worker.js",
-    "static/css/main.87b41b3a.chunk.css.map": "/redboudraa/monster-project-with-react/static/css/main.87b41b3a.chunk.css.map"
+    "main.css": "/monster-project-with-react/static/css/main.87b41b3a.chunk.css",
+    "main.js": "/monster-project-with-react/static/js/main.259e92f9.chunk.js",
+    "main.js.map": "/monster-project-with-react/static/js/main.259e92f9.chunk.js.map",
+    "runtime~main.js": "/monster-project-with-react/static/js/runtime~main.d898a448.js",
+    "runtime~main.js.map": "/monster-project-with-react/static/js/runtime~main.d898a448.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/monster-project-with-react/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/monster-project-with-react/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/monster-project-with-react/index.html",
+    "precache-manifest.25e9b6831b030e66a71ea79e64b49fdb.js": "/monster-project-with-react/precache-manifest.25e9b6831b030e66a71ea79e64b49fdb.js",
+    "service-worker.js": "/monster-project-with-react/service-worker.js",
+    "static/css/main.87b41b3a.chunk.css.map": "/monster-project-with-react/static/css/main.87b41b3a.chunk.css.map"
   }
 }
